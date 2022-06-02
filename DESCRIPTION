@@ -1,0 +1,16 @@
+Package: sxzforanova
+Type: Package
+Title: Difference test
+Version: 0.1.0
+Author: X.Z. Sun
+Maintainer: The package maintainer <xzsun@cau.edu.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+    The data were tested by normal distribution test, variance homogeneity test, variance test and post comparison.
+    This package is supported by following packages, which are 
+    openxlsx,tidyverse,car,xtable,flextable,officer,AggregateR, and agricolae.
+License: What license is it under? GNU General Public License (GPL)
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2021-08-08 08:29:24 UTC; zhan
